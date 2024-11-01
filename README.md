@@ -4,7 +4,7 @@
 
 About me ? [edoyangz.com](https://edoyang.com) </br></br>
 
-<div align="center" justify="center">
+<div align="center"
   
   ![](https://github-readme-stats.vercel.app/api?username=edoyang&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
   ![](https://github-readme-streak-stats.herokuapp.com/?user=edoyang&theme=transparent&hide_border=false)
