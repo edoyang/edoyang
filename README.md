@@ -2,7 +2,7 @@
 
 ### I'm a Fullstack Developer from Indonesia
 
-About me ? [edoyang.com](https://edoyang.com) </br></br>
+[About me ?](https://edoyang.github.io) </br></br>
 
 <div align="center">
   
